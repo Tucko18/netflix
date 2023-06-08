@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background:black;
+    color: white;
+    padding: 20px;
+}
+#logo-netflix {
+width: 80px;
+height: 20px;
+}
+
+p{
+ display: inline;
+ margin-left: 20px;
+ font-family: 'Kanit', sans-serif;
+}
+img{
+    align-items: center;
+    width: 80pc;
+    height: 60pc;
+}
+.fa-magnifying-glass{
+    margin-left: 26em;
+}
+.fa-regular{
+    margin-left: 20em;
+    
+    
+}
+#perfil{
+    width: 2em;
+    height: 2em;
+    position: absolute;
+    top: 14px;
+    left: 87em;
+}
+.fa-angle-down{
+    margin-left: 170px;
+    
+}
+#search{
+    position: absolute;
+    left: 50em;
+     width:  20em;
+     background-color: gray;
+     border: none;
+     height: 2em;
+     color: white;
+     border-radius: 5px;
+}
+h1{
+    color: ;
+    font-size: 20em;
+    família da fonte: 'Holtwood One SC', serif;
+    
+}

@@ -1,0 +1,85 @@
+.entrar{
+    background-color: rgba(0, 0, 0, 0.771);
+    margin: auto;
+    height: 40em;
+    width: 30em;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#txtentrar{
+     position: absolute;
+     margin-left: 2.5em;
+     font-size: 32px;
+     margin-top: 2em;
+}
+#emailoun{
+    background-color: #454545;
+    width: 19em;
+    height: 50px;
+    border-style: none;
+    border: 20px;
+    color: white;
+    padding-left: 30px;
+    border-color: #454545;
+    position: absolute;
+    margin-top: 10em;
+    margin-left: -10em;
+    outline: 0;
+    font-size: 16px;
+}
+.pass{
+    background-color: #454545;
+    width: 19em;
+    height: 50px;
+    border-style: none;
+    border: 20px;
+    color: white;
+    padding-left: 30px;
+    position: absolute;
+    margin-top: 16em;
+    margin-left: -10em;
+    outline: 0;
+    border-color: #454545;
+    font-size: 16px;
+}
+#login{
+    background-color: #E50914;
+    outline: 0;
+    border-style: none;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    width: 21em;
+    margin-top: 22em;
+    margin-left: -10em;
+    height: 50px;
+}
+#lembre{
+    position: absolute;
+    margin-top: 32em;
+    margin-left: -11.3em;
+    outline: 0;
+    border-style: none;
+    background-color: #737373;
+}
+#mim{
+    position: absolute;
+    margin-top: 426px;
+    margin-left: 8em;
+    color: #B3B3B3;
+    font-size: 13px;
+}
+#ajuda{
+    position: absolute;
+    margin-top: 426px;
+    margin-left: 24em;
+    color: #B3B3B3;
+    font-size: 13px;
+}
+#novo{
+    position: absolute;
+    margin-top: 30em;
+    margin-left: 5em;
+    color: #B3B3B3;
+    font-size: 16px;
+}
